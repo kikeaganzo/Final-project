@@ -3,7 +3,7 @@
 
 A platform to leak sensitive information to journalists around the wordl that allow them to start an investigation.
 
-![Leak it out demo](/public/leakit-ok.gif)
+![Leak it out demo](leakit-ok.gif)
 
 Features:
 
@@ -21,5 +21,5 @@ Created with:
 -   Socket
 -   AWS S3
 
-![Leak it out demo](/public/leakitout-2.gif)
+![Leak it out demo 2](leakitout-2.gif)
 
