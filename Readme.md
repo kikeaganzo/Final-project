@@ -1,7 +1,7 @@
 # Leak it out
 
 
-A platform to leak sensitive information to journalists around the wordl that allow them to start an investigation.
+A platform to leak sensitive information to journalists around the world that allow them to start an investigation.
 
 ![Leak it out demo](leakit-ok.gif)
 
@@ -21,5 +21,5 @@ Created with:
 -   Socket
 -   AWS S3
 
-![Leak it out demo 2](leakitout-2.gif)
+
 
