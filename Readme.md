@@ -3,6 +3,8 @@
 
 A platform to leak sensitive information to journalists around the wordl that allow them to start an investigation.
 
+![Leak it out demo](/public/leakit-ok.gif)
+
 Features:
 
 - Post leaked information
@@ -18,3 +20,6 @@ Created with:
 -   PostgreSQL
 -   Socket
 -   AWS S3
+
+![Leak it out demo](/public/leakitout-2.gif)
+
